@@ -1,0 +1,21 @@
+{
+  "keystrokes_min_per_minute": 40,
+  "keystrokes_max_per_minute": 200,
+  "clicks_min_per_minute": 25,
+  "clicks_max_per_minute": 120,
+  "switches_min_per_minute": 2,
+  "switches_max_per_minute": 14,
+  "scrolls_min_per_minute": 5,
+  "scrolls_max_per_minute": 36,
+  "mouse_moves_min_per_minute": 40,
+  "mouse_moves_max_per_minute": 250,
+  "typing_burst_min_chars": 20,
+  "typing_burst_max_chars": 80,
+  "min_pause": 0.1,
+  "max_pause": 2.0,
+  "reading_pause_chance": 0.10,
+  "reading_pause_min": 1.0,
+  "reading_pause_max": 3.0,
+  "safe_mode": false,
+  "verbose": true
+}
